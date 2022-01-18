@@ -2,7 +2,7 @@ This is my project for the first CodeBozu Fellowship.
 
 Credits to Aditi Trivedi, Cayden Walsh, Kieran Whittstruck, and Soumil Gandhi for helping. 
 
-# report 
+# Report 
 For Deliverable 0, before the project fully began, we did a writeup about the Ethics of Webscraping which taught us the rules and guidelines of responsible scraping before we actually started so we wouldn’t do anything stupid. 
 
 # Part 1: Presidential Biodata
